@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://wanghaocun.com/categories/index.html</loc>
+    
+    <lastmod>2018-11-01T18:20:09.565Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://wanghaocun.com/about/index.html</loc>
     
     <lastmod>2018-11-01T18:18:35.680Z</lastmod>
@@ -30,14 +37,14 @@
   </url>
   
   <url>
-    <loc>http://wanghaocun.com/2017/12/07/test/</loc>
+    <loc>http://wanghaocun.com/2018/11/01/hello-world/</loc>
     
     <lastmod>2017-08-23T01:54:14.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://wanghaocun.com/2018/11/01/hello-world/</loc>
+    <loc>http://wanghaocun.com/2017/12/07/test/</loc>
     
     <lastmod>2017-08-23T01:54:14.000Z</lastmod>
     
