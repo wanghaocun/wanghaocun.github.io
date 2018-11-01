@@ -102,6 +102,32 @@
   </entry>
   
   <entry>
+    <title>Reuse hexo</title>
+    <link href="http://yoursite.com/2018/11/01/Reuse-hexo/"/>
+    <id>http://yoursite.com/2018/11/01/Reuse-hexo/</id>
+    <published>2018-10-31T17:01:01.000Z</published>
+    <updated>2018-11-01T16:22:19.946Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Restart-hexo-blog&quot;&gt;&lt;a href=&quot;#Restart-hexo-blog&quot; class=&quot;headerlink&quot; title=&quot;Restart hexo blog&quot;&gt;&lt;/a&gt;Restart hexo
+        
+      
+    
+    </summary>
+    
+      <category term="restart" scheme="http://yoursite.com/categories/restart/"/>
+    
+    
+      <category term="restart" scheme="http://yoursite.com/tags/restart/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Test for Hexo</title>
     <link href="http://yoursite.com/2017/12/07/test/"/>
     <id>http://yoursite.com/2017/12/07/test/</id>
