@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>王浩存</title>
   
-  
+  <subtitle>好记性不如烂笔头</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-11-01T15:59:59.854Z</updated>
+  <updated>2018-11-01T16:14:51.596Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>[object Object]</title>
     <link href="http://yoursite.com/2018/11/01/reuse%20hexo/"/>
     <id>http://yoursite.com/2018/11/01/reuse hexo/</id>
     <published>2018-11-01T15:54:07.165Z</published>
-    <updated>2018-11-01T15:59:59.854Z</updated>
+    <updated>2018-11-01T16:14:51.596Z</updated>
     
     <summary type="html">
     
@@ -29,12 +29,16 @@
       
         
         
-          &lt;h1 id=&quot;reuse-hexo&quot;&gt;&lt;a href=&quot;#reuse-hexo&quot; class=&quot;headerlink&quot; title=&quot;reuse hexo&quot;&gt;&lt;/a&gt;reuse hexo&lt;/h1&gt;&lt;h2 id=&quot;Restart-the-hexo-blog&quot;&gt;&lt;a
+          &lt;h2 id=&quot;Restart-the-hexo-blog&quot;&gt;&lt;a href=&quot;#Restart-the-hexo-blog&quot; class=&quot;headerlink&quot; title=&quot;Restart the hexo blog&quot;&gt;&lt;/a&gt;Restart the hexo
         
       
     
     </summary>
     
+      <category term="start" scheme="http://yoursite.com/categories/start/"/>
+    
+    
+      <category term="start" scheme="http://yoursite.com/tags/start/"/>
     
   </entry>
   
