@@ -3,11 +3,11 @@
   <title>王浩存</title>
   
   <subtitle>好记性不如烂笔头</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/blog/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://wanghaocun.com/"/>
   <updated>2017-08-23T01:54:14.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://wanghaocun.com/</id>
   
   <author>
     <name>王浩存</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/11/01/hello-world/"/>
-    <id>http://yoursite.com/2018/11/01/hello-world/</id>
+    <link href="http://wanghaocun.com/2018/11/01/hello-world/"/>
+    <id>http://wanghaocun.com/2018/11/01/hello-world/</id>
     <published>2018-11-01T14:48:07.192Z</published>
     <updated>2017-08-23T01:54:14.000Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title></title>
-    <link href="http://yoursite.com/2018/11/01/cclean/"/>
-    <id>http://yoursite.com/2018/11/01/cclean/</id>
+    <link href="http://wanghaocun.com/2018/11/01/cclean/"/>
+    <id>http://wanghaocun.com/2018/11/01/cclean/</id>
     <published>2018-11-01T14:48:07.190Z</published>
     <updated>2017-08-23T01:54:14.000Z</updated>
     
@@ -54,8 +54,8 @@
   
   <entry>
     <title></title>
-    <link href="http://yoursite.com/2018/11/01/cc/"/>
-    <id>http://yoursite.com/2018/11/01/cc/</id>
+    <link href="http://wanghaocun.com/2018/11/01/cc/"/>
+    <id>http://wanghaocun.com/2018/11/01/cc/</id>
     <published>2018-11-01T14:48:07.176Z</published>
     <updated>2017-08-23T01:54:14.000Z</updated>
     
@@ -77,8 +77,8 @@
   
   <entry>
     <title>Reuse hexo</title>
-    <link href="http://yoursite.com/2018/11/01/Reuse-hexo/"/>
-    <id>http://yoursite.com/2018/11/01/Reuse-hexo/</id>
+    <link href="http://wanghaocun.com/2018/11/01/Reuse-hexo/"/>
+    <id>http://wanghaocun.com/2018/11/01/Reuse-hexo/</id>
     <published>2018-10-31T17:01:01.000Z</published>
     <updated>2018-11-01T16:22:19.946Z</updated>
     
@@ -94,17 +94,17 @@
     
     </summary>
     
-      <category term="restart" scheme="http://yoursite.com/categories/restart/"/>
+      <category term="restart" scheme="http://wanghaocun.com/categories/restart/"/>
     
     
-      <category term="restart" scheme="http://yoursite.com/tags/restart/"/>
+      <category term="restart" scheme="http://wanghaocun.com/tags/restart/"/>
     
   </entry>
   
   <entry>
     <title>Test for Hexo</title>
-    <link href="http://yoursite.com/2017/12/07/test/"/>
-    <id>http://yoursite.com/2017/12/07/test/</id>
+    <link href="http://wanghaocun.com/2017/12/07/test/"/>
+    <id>http://wanghaocun.com/2017/12/07/test/</id>
     <published>2017-12-07T12:46:25.000Z</published>
     <updated>2017-08-23T01:54:14.000Z</updated>
     
@@ -120,12 +120,12 @@
     
     </summary>
     
-      <category term="Diary" scheme="http://yoursite.com/categories/Diary/"/>
+      <category term="Diary" scheme="http://wanghaocun.com/categories/Diary/"/>
     
     
-      <category term="PS3" scheme="http://yoursite.com/tags/PS3/"/>
+      <category term="PS3" scheme="http://wanghaocun.com/tags/PS3/"/>
     
-      <category term="Games" scheme="http://yoursite.com/tags/Games/"/>
+      <category term="Games" scheme="http://wanghaocun.com/tags/Games/"/>
     
   </entry>
   
